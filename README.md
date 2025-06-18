@@ -92,6 +92,68 @@ Edit
 
 Would you like me to generate **full GitHub README.md files** for all 3 projects with real examples and prompts for LLaMA or AutoGluon?
 
+```
+
+### Cold linked in messages for referrals
+🎯 Message 1: To a Recent Intern or New Grad at Your Target Company
+Use when messaging someone who did a DS/ML internship at the company you’re applying to.
+
+Hi [Name],
+
+I came across your profile and saw you recently interned at [Company] as a [Role, e.g., Data Science Intern]. I’m currently a dual-degree student at IIT Kharagpur with a strong focus on NLP and ML (recently built an LLM-based itinerary planner and PubMed relation extractor).
+
+I’m very interested in applying for an internship at [Company] and would really appreciate any quick insights on the recruitment process or how you prepared. If there's a referral opportunity and you find my profile a good fit, I’d be super grateful.
+
+Either way, thank you and wishing you continued success!
+
+– Naman
+
+💼 Message 2: To a Senior/Manager in Data Science or ML
+Use when messaging someone 3+ years experienced — be respectful, concise, and to the point.
+
+Hi [Name],
+
+I’m Naman, a final-year student at IIT Kharagpur with a focus on AI/ML (recently worked on LLaMA3-based NLP apps and DL-driven manufacturing state prediction).
+
+I admire your work at [Company] and would love to explore how I could potentially contribute in an internship capacity. If any opportunities are open or upcoming on your team, I’d love to share my resume or project portfolio for consideration.
+
+Thanks so much in advance and wishing you all the best.
+
+– Naman
+
+🤝 Message 3: To IIT Alumni at a Target Company
+Your network is your advantage. Alumni will often respond positively.
+
+Hi [Name],
+
+I’m also from IIT Kharagpur (Class of 2025, Dual Degree, Aero) and currently exploring data science/AI internship opportunities. I’ve worked on LLMs (LLaMA3), NLP (disease-symptom mining from PubMed), and deep learning models, and I’m eager to apply these skills in an impactful setting.
+
+I’d really appreciate any advice you might have for standing out in the application process at [Company], or if there’s a possibility of a referral.
+
+Thanks so much and proud to see fellow IITians doing great work!
+
+– Naman
+
+🔁 Quick Tips Before Sending:
+Personalize the opening line (mention their role, recent post, or a shared interest).
+
+Follow up after 5–7 days if they don’t respond.
+
+Attach your resume + GitHub portfolio after they reply.
+
+Keep the tone polite and professional — avoid sounding desperate or overly informal.
+
+Would you like help creating a Notion-based portfolio or a GitHub landing page to link in these messages?
+
+
+
+
+
+
+
+
+Tools
+
 
 
 
