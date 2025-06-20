@@ -124,15 +124,17 @@ Thanks so much in advance and wishing you all the best.
 🤝 Message 3: To IIT Alumni at a Target Company
 Your network is your advantage. Alumni will often respond positively.
 
-Hi [Name],
+**Hi \[Name],**
 
-I’m also from IIT Kharagpur (Class of 2025, Dual Degree, Aero) and currently exploring data science/AI internship opportunities. I’ve worked on LLMs (LLaMA3), NLP (disease-symptom mining from PubMed), and deep learning models, and I’m eager to apply these skills in an impactful setting.
+I'm Naman, a Dual Degree student in Aerospace Engineering at IIT Kharagpur (Class of 2025). I’ve been actively exploring opportunities in data science and AI, and came across your profile while researching roles at \[Company].
 
-I’d really appreciate any advice you might have for standing out in the application process at [Company], or if there’s a possibility of a referral.
+With experience in NLP (e.g., disease-symptom extraction from PubMed), LLMs (LLaMA3), and ML (e.g., churn prediction, real-time AI assistants), I’m eager to apply these skills in impactful real-world settings. I’d really appreciate any advice you might have about navigating opportunities at \[Company], and would be grateful if you could guide me on how best to position myself.
 
-Thanks so much and proud to see fellow IITians doing great work!
+Thanks for your time, and it’s always inspiring to see KGP alumni doing such impactful work!
 
-– Naman
+Warm regards,
+Naman
+
 
 🔁 Quick Tips Before Sending:
 Personalize the opening line (mention their role, recent post, or a shared interest).
